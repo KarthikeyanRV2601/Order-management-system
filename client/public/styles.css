@@ -1,0 +1,113 @@
+.jumbotron {
+    height:300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-bottom:1px solid #ff6a00;
+  }
+
+/* body {
+    background: #77A1D3;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #E684AE, #79CBCA, #77A1D3);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #E684AE, #79CBCA, #77A1D3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+  } */
+
+  /* .background-img {
+    -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
+    filter: blur(5px);
+  } */
+
+  .tagline {
+      font-size: 18px;
+      margin-left: 63px;
+      color: azure;
+  }
+
+/* .product-box {
+  background-color: #eac3fa;
+
+  margin: 0 800px 0px 10px;
+  padding: 10px 0 10px 0;
+} */
+
+.content {
+      margin-top: 90px;
+  }
+
+.product-form {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-top: 20px;
+  margin-bottom: 100px;
+}
+
+  h1 {
+    font-family: 'Syne', sans-serif;
+    font-size: 50px;
+    font-weight: 500;
+  }
+
+.rect-box {
+  background-color: #d9fac3;
+  padding: 8px;
+  color: #4a4a4a;
+}
+
+.card-title {
+  background-color: #c3f9fa;
+  padding: 5px;
+  color: #4a4a4a;
+}
+
+  .bg-cover {
+    background-size: cover;
+    color: white;
+    background-position: center center;
+    position: relative;
+    z-index: -2;
+  }
+
+.row {
+    margin-top: 20px;
+}
+
+.jumbotron {
+    background-image: url("bg2.jpg");
+    background-size: cover;
+  }
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.warehouse-types {
+    height: 200%;
+    margin-right: 100px;
+}
+
+.clerk-btn {
+    margin-top: 10px;
+}
+.warehouse {
+    margin-bottom: 60px;
+}
+
+.icon {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    overflow: hidden;
+}
+
+.red {
+    color: red;
+}
+
+.card {
+    margin: 3px;
+}
+
+
+

@@ -42,6 +42,7 @@ facilitate easy retrieval and modification of data.
   <img src="https://github.com/KarthikeyanRV2601/Order-management-system/raw/develop/OMS ss/outcome.jpg" />
 </p>
 <h2>DEVELOPERS</h2>
+<a href="https://github.com/KarthikeyanRV2601">Karthikeyan</a>
 <a href="https://github.com/Mighil31">Mighil Dath</a>
 
 

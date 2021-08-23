@@ -1,4 +1,4 @@
-# Order-management-system# Order-management-system
+# Order-management-system
 <h2>:page_with_curl:ABSTRACT</h2>
 Order Management System is for a company that sells construction materials
 to customers who buy different products.
